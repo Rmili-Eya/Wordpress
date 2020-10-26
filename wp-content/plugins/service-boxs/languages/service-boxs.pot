@@ -1,0 +1,373 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-07-13 17:04+0600\n"
+"PO-Revision-Date: 2020-07-13 17:05+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n;esc_attr__;esc_attr_e;esc_attr_x;esc_html__;"
+"esc_html_e;esc_html_x\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: lib/metabox/rsbbox-metabox.php:10
+msgid "Service Box Details"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:17
+msgid "Color Settings"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:25
+msgid ""
+"Options Settings  - <a style=\"color: red;outline: none;text-decoration: "
+"none;box-shadow: none;font-size: 12px;\" target=\"_blank\" href=\"https://"
+"themepoints.com\">Unlock All Features</a> - <a style=\"color: red;outline: "
+"none;text-decoration: none;box-shadow: none;font-size: 12px;\" target="
+"\"_blank\" href=\"https://themepoints.com/questions-answer/\">Need Support</"
+"a>"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:42
+msgid "Description"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:53
+msgid "Icon"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:68
+msgid "URL"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:92
+msgid "Background Color"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:101
+msgid "Icon Color"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:110
+msgid "Icon Bg Color"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:119
+msgid "Title Color"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:128
+msgid "Content Color"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:166 lib/post-type/rsbbox-post-type.php:61
+msgid "Categories"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:203
+msgid "Styles"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:207
+msgid "Style 1 (Only Pro)"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:208
+msgid "Style 01 (Free)"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:209
+msgid "Style 02 (Free)"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:210
+msgid "Style 03 (Free)"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:211
+msgid "Style 2 (Only Pro)"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:212
+msgid "Style 3 (Only Pro)"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:213
+msgid "Style 4 (Only Pro)"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:214
+msgid "Style 5 (Only Pro)"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:215
+msgid "Style 6 (Only Pro)"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:216
+msgid "Style 7 (Only Pro)"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:217
+msgid "Style 8 (Only Pro)"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:218
+msgid "Style 9 (Only Pro)"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:219
+msgid "Style 10 (Only Pro)"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:220
+msgid "Style 11 (Only Pro)"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:221
+msgid "Style 12 (Only Pro)"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:222
+msgid "Style 13 (Only Pro)"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:223
+msgid "Style 14 (Only Pro)"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:224
+msgid "Style 15 (Only Pro)"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:225
+msgid "Style 16 (Only Pro)"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:226
+msgid "Style 17 (Only Pro)"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:227
+msgid "Style 18 (Only Pro)"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:228
+msgid "Style 19 (Only Pro)"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:229
+msgid "Style 20 (Only Pro)"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:237
+msgid "Service Column"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:241
+msgid "3 Column"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:242
+msgid "2 Column"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:243
+msgid "1 Column"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:244
+msgid "4 Column (Only Pro)"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:245
+msgid "5 Column (Only Pro)"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:246
+msgid "6 Column (Only Pro)"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:254
+msgid "Total Items (Only Pro)"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:268
+msgid "Hide Icon (Only Pro)"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:272 lib/metabox/rsbbox-metabox.php:299
+#: lib/metabox/rsbbox-metabox.php:340
+msgid "Show"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:273 lib/metabox/rsbbox-metabox.php:300
+#: lib/metabox/rsbbox-metabox.php:341
+msgid "Hide"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:281
+msgid "Icon Font Size (Only Pro)"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:295
+msgid "Hide Title (Only Pro)"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:308
+msgid "Title Font Size (Only Pro)"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:322
+msgid "Content Font Size (Only Pro)"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:336
+msgid "Hide Button (Only Pro)"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:349
+msgid "Button Font Color (Only Pro)"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:359
+msgid "Button Hover Color (Only Pro)"
+msgstr ""
+
+#: lib/metabox/rsbbox-metabox.php:369
+msgid "Button Font Size (Only Pro)"
+msgstr ""
+
+#: lib/post-type/rsbbox-post-type.php:13
+msgid "Service Box"
+msgstr ""
+
+#: lib/post-type/rsbbox-post-type.php:14
+msgid "Parent Post Service"
+msgstr ""
+
+#: lib/post-type/rsbbox-post-type.php:15
+msgid "All Services"
+msgstr ""
+
+#: lib/post-type/rsbbox-post-type.php:16
+msgid "View Service"
+msgstr ""
+
+#: lib/post-type/rsbbox-post-type.php:17
+msgid "Add New Service"
+msgstr ""
+
+#: lib/post-type/rsbbox-post-type.php:18
+msgid "Add Service"
+msgstr ""
+
+#: lib/post-type/rsbbox-post-type.php:19
+msgid "Edit Service"
+msgstr ""
+
+#: lib/post-type/rsbbox-post-type.php:20
+msgid "Update Service"
+msgstr ""
+
+#: lib/post-type/rsbbox-post-type.php:21
+msgid "Search Service"
+msgstr ""
+
+#: lib/post-type/rsbbox-post-type.php:22 lib/post-type/rsbbox-post-type.php:138
+msgid "Not Found"
+msgstr ""
+
+#: lib/post-type/rsbbox-post-type.php:23 lib/post-type/rsbbox-post-type.php:139
+msgid "Not found in Trash"
+msgstr ""
+
+#: lib/post-type/rsbbox-post-type.php:29
+msgid "service-box"
+msgstr ""
+
+#: lib/post-type/rsbbox-post-type.php:30 lib/post-type/rsbbox-post-type.php:146
+msgid "Service news and reviews"
+msgstr ""
+
+#: lib/post-type/rsbbox-post-type.php:60
+msgid "Name"
+msgstr ""
+
+#: lib/post-type/rsbbox-post-type.php:62
+msgid "Date"
+msgstr ""
+
+#: lib/post-type/rsbbox-post-type.php:117
+#: lib/post-type/rsbbox-post-type.php:134
+msgid "Generate Shortcode"
+msgstr ""
+
+#: lib/post-type/rsbbox-post-type.php:129
+msgid "Service Shortcode"
+msgstr ""
+
+#: lib/post-type/rsbbox-post-type.php:130
+msgid "Parent Shortcode"
+msgstr ""
+
+#: lib/post-type/rsbbox-post-type.php:131
+msgid "All Shortcodes"
+msgstr ""
+
+#: lib/post-type/rsbbox-post-type.php:132
+msgid "View Shortcode"
+msgstr ""
+
+#: lib/post-type/rsbbox-post-type.php:133
+msgid "Add New Shortcode"
+msgstr ""
+
+#: lib/post-type/rsbbox-post-type.php:135
+msgid "Edit Shortcode"
+msgstr ""
+
+#: lib/post-type/rsbbox-post-type.php:136
+msgid "Update Shortcode"
+msgstr ""
+
+#: lib/post-type/rsbbox-post-type.php:137
+msgid "Search Shortcode"
+msgstr ""
+
+#: lib/post-type/rsbbox-post-type.php:145
+msgid "service-shortcodes"
+msgstr ""
+
+#: lib/post-type/rsbbox-post-type.php:168
+msgid "Shortcode"
+msgstr ""
+
+#: lib/post-type/rsbbox-post-type.php:169
+msgid "Template Shortcode"
+msgstr ""
+
+#: lib/post-type/rsbbox-post-type.php:193
+msgid "Rate 5 Stars"
+msgstr ""
+
+#: lib/post-type/rsbbox-post-type.php:209
+#: lib/post-type/rsbbox-post-type.php:239
+msgid ""
+"Please rate <span style=\"color:red\"><i class=\"fa fa-star\"></i><i class="
+"\"fa fa-star\"></i><i class=\"fa fa-star\"></i><i class=\"fa fa-star\"></"
+"i><i class=\"fa fa-star\"></i></span> (5 star) if you like this plugin, that "
+"inspired us lot. If you have any issues about the plugin, please request "
+"support forum."
+msgstr ""
+
+#: lib/post-type/rsbbox-post-type.php:223
+msgid "Love Us"
+msgstr ""
